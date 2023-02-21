@@ -94,16 +94,19 @@ ul{
   font-size: 36px;
   line-height: 1.1;
   text-align: center;
-  letter-spacing: 0,02em;
+  letter-spacing: 0.02em;
   text-transform: capitalize;
 }
 .sub-tittle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
-  text-align: center;
   text-transform: capitalize;
-  letter-spacing: 0,02em;
+  letter-spacing: 0.02em;
+
+}
+.card{
+  text-align: center;
 
 }
 .text {
